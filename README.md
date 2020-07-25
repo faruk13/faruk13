@@ -5,7 +5,7 @@
   <br><br>
   <samp>
     :wave: <strong>Hi there! </strong></strong>
-    <br> I code at Practo.
+    <br> I code at <a href="https://www.practo.com/">Practo</a> 
     <br> 🔭 Simplifying and improving the digital healthcare experience.
     <br> :mortar_board: <a href="https://education.github.com/graduation/yearbook?sort=az&page=14&search=faruk13#faruk13">Github Class of 2020</a> 
     <br> :black_square_button: Blockchain Enthusiast :black_square_button:
