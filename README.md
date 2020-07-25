@@ -1,10 +1,11 @@
-### Hi there 👋
+
 
 <p align="center">
   <img src="https://i.imgur.com/z36lb6r.gif" width="500px">
   <br><br>
   <samp>
-    :wave: Hi! I code at Practo.
+    :wave: <strong>Hi there! </strong></strong>
+    <br> I code at Practo.
     <br> 🔭 Simplifying and improving the digital healthcare experience.
     <br> :mortar_board: <a href="https://education.github.com/graduation/yearbook?sort=az&page=14&search=faruk13#faruk13">Github Class of 2020</a> 
     <br> :black_square_button: Blockchain Enthusiast :black_square_button:
