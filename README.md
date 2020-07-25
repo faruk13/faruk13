@@ -4,7 +4,7 @@
   <img src="https://i.imgur.com/z36lb6r.gif" width="500px">
   <br><br>
   <samp>
-    :wave: <strong>Hi there! </strong></strong>
+    :wave: <strong>Hi there! </strong>It's <i>Faaruk</i>
     <br> I code at <a href="https://www.practo.com/">Practo</a> 
     <br> 🔭 Simplifying and improving the digital healthcare experience.
     <br> :mortar_board: <a href="https://education.github.com/graduation/yearbook?sort=az&page=14&search=faruk13#faruk13">Github Class of 2020</a> 
