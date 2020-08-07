@@ -21,9 +21,13 @@
       <img alt="Faruk's StackOverflow" width="80px" src="https://img.shields.io/badge/faruk13-Black?style=flat-square&labelColor=000000&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/5668215/faruk13" />
     </a>
     <br><br> :notes: Music or :video_game: FIFA19 to relax
-    <br><br><br>:coffee: Lets get in touch... :point_right: Find me on <a href="https://www.linkedin.com/in/umar-faruk/">
+    <br><br><br>:coffee: Lets get in touch... :point_right: <a href="https://www.linkedin.com/in/umar-faruk/">
   <img alt="Faruk's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+    <br>
+    <br>
+      <img alt="Profile Views" width="80px" border-radius="50%" src="https://komarev.com/ghpvc/?username=faruk13&label=Been+Here:&style=plastic&color=blue" />
+    
  </samp>
  <br> 
 </p>
